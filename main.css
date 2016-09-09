@@ -29,27 +29,6 @@ p {
     line-height: 1.6;
 }
 
-
 img {
     max-width: 100%
-}
-
-
-a:link {
-    color: #000000;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #ffffff;
-}
-
-a:hover {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
-a:active {
-    color: #b3b3b3;
-    text-decoration: underline;
 }
